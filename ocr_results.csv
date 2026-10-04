@@ -1,0 +1,11 @@
+sample_id,expected_text,recognized_text,correct,processing_time_seconds
+1,4827,4827,True,0.8402
+2,1936,1938,False,0.9855
+3,7052,7052,True,0.9562
+4,8641,8641,True,0.7678
+5,3209,3208,False,0.8052
+6,5718,6718,False,0.6871
+7,2460,2460,True,0.6562
+8,9183,9183,True,0.8108
+9,6375,6375,True,0.7575
+10,1048,1048,True,0.7957
